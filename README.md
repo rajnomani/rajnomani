@@ -1,4 +1,4 @@
-# Hi, I'm Dr.Raj AKil Nomani
+# Hi, I'm Raj Akil Nomani
 
 I'm an MBBS graduate moving into clinical research and health data roles. I learn by building small projects that follow how real teams work: a written plan first, checks against known answers, and honest limits.
 
